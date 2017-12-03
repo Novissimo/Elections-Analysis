@@ -1,3 +1,3 @@
-# 2016-Election-Analysis
+# Elections-Analysis
 
-This project analyzes the polls and election results of the 2016 presidential campaigns of Hillary Clinton and Donald Trump. 
+Analyses of polls and election results of various election campaigns around the world. 
